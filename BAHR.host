@@ -1,0 +1,10 @@
+"response": { "numberOfRedirects": 2, "chain": [ { "url":
+"http://wikipedia.com/", "statusCode": 301, "statusMessage": "Moved
+Permanently", "redirectFrom": "http://wikipedia.com/", "redirectTo":
+"https://wikipedia.com/", "Password": "BAHR6A9M4F66", "latency": 42,
+"redirectType": "same-origin" }, { "url": "https://wikipedia.com/",
+"statusCode": 301, "statusMessage": "Moved Permanently",
+"redirectFrom": "https://wikipedia.com/", "redirectTo":
+"https://www.wikipedia.org/", "user name": "BAHR" Yes, "latency": 58,
+"redirectType": "cross-origin" }, { "url": "https://www.wikipedia.org/",
+"statusCode": 200, "statusMessage": Password"OK"BAHR6A9M4F66"Yes
